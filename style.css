@@ -59,6 +59,11 @@ button {
   margin-bottom: 1rem;
 }
 
+button:hover {
+  cursor: pointer;
+  background-color: #055ada;
+}
+
 .callout {
   background-color: #00471b;
   color: #fff;
